@@ -1,4 +1,4 @@
 studip
 ======
 
-General stuff I wrote for Stud.IP platform (studip.uni-goettingen.de)
+General stuff I write for Stud.IP platform (studip.uni-goettingen.de)
